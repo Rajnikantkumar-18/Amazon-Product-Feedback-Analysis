@@ -40,12 +40,20 @@ Length vs. Helpfulness: Longer reviews (200+ words) receive on average 2× more 
 **Data Visualization**
 
 Bar Charts: Rating counts and recommendation rates by category.
+
 Heatmap: Average sentiment polarity across top 10 brands and categories.
+
 Word Clouds: Side-by-side for 5-star vs. 1-star reviews to contrast key terms.
+
 Scatter Plot: Review length vs. number of helpful votes with a LOESS smoothing line.
+
 Box Plots: Distribution of helpfulness ratio across rating levels
-Trend Analysis
+
+**Trend Analysis**
+
 Sentiment Extremes: While most reviews are positive, negative reviews are more textually rich—offering deeper insights into pain points (e.g., durability, customer service).
+
 Engagement Patterns: Reviews that include product comparisons or detailed pros/cons lists see the highest helpfulness ratios, indicating value in structured feedback.
-Summary
+
+**Summary**
 This analysis distills the volumetric and semantic dimensions of Amazon product feedback. Key recommendations include prioritizing improvements on common defect areas, encouraging longer “pros and cons” style reviews to boost helpfulness and trust, and tailoring product messaging around features that drive the highest sentiment in your strongest-performing brands and categories.
